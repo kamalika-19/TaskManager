@@ -12,7 +12,7 @@ export default function App() {
   return (
     <div className="app">
       <header className="app-header">
-        <h1 className="app-title"><span className="title-accent">✓</span> Taskly</h1>
+        <h1 className="app-title"><span className="title-accent">✓</span> Task Manager</h1>
         <p className="app-subtitle">Stay on top of things.</p>
       </header>
       <main className="app-main">
