@@ -112,7 +112,7 @@ export function TaskItem({ task, onToggle, onDelete, onEdit }) {
             className="btn edit-btn"
             disabled={busy}
           >
-            ✏️ Edit
+            Edit
           </button>
         )}
 
@@ -121,7 +121,7 @@ export function TaskItem({ task, onToggle, onDelete, onEdit }) {
           className="btn delete-btn"
           disabled={busy}
         >
-          🗑 Delete
+          Delete
         </button>
       </div>
 
